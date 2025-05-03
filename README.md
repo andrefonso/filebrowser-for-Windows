@@ -1,4 +1,4 @@
-# 🗂️ Instalação e Configuração do File Browser no Windows 11 (atualizado)
+# 🗂️ Instalação e Configuração do File Browser no Windows 11
 
 Este roteiro ensina como instalar e configurar o [File Browser](https://filebrowser.org) no Windows 11 para compartilhar uma pasta com outros dispositivos da sua rede local.
 
