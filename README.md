@@ -21,7 +21,7 @@ C:\Program Files\filebrowser
 3. Crie a pasta que você deseja compartilhar (exemplo):
 
 ```
-C:\filebrowser\compartilhado
+mkdir C:\filebrowser\compartilhado
 ```
 
 ---
