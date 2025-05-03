@@ -15,13 +15,13 @@ iwr -useb https://raw.githubusercontent.com/filebrowser/get/master/get.ps1 | iex
 2. Mova o executável para um local definitivo, como:
 
 ```
-C:\Program Filesilebrowser
+C:\Program Files\filebrowser
 ```
 
 3. Crie a pasta que você deseja compartilhar (exemplo):
 
 ```
-C:ilebrowser\compartilhado
+C:\filebrowser\compartilhado
 ```
 
 ---
