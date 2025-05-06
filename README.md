@@ -18,10 +18,18 @@ iwr -useb https://raw.githubusercontent.com/filebrowser/get/master/get.ps1 | iex
 C:\Program Files\filebrowser
 ```
 
-3. Crie a pasta que você deseja compartilhar (exemplo):
+3. Crie a pasta filebrowser e dentro dela a pasta que você deseja compartilhar executando os comandos a seguir:
 
 ```
-mkdir C:\filebrowser\compartilhado
+mkdir C:\filebrowser
+cd filebrowser
+mkdir compartilhado
+```
+
+4. Para criar o arquivo de banco de dados "filebrowser.db", ainda dentro da pasta filebrowser digite o seguinte:
+
+```
+filebrowser.exe -r "C:\filebrowser\compartilhado" --port 8080
 ```
 
 ---
